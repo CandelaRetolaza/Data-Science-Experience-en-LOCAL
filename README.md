@@ -1,4 +1,4 @@
-# Data-Science-Experience-en-LOCAL
+# Data Science Experience en LOCAL
 
 In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. 
 
